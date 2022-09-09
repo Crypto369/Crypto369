@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArgenTerra_OU
+- 👋 Hi, I’m @ArgenTerra.OU
 - 👀 I’m interested in DeFi, NFT, Investing, and other crypto-things:)
 - 🌱 I’m currently learning Pyton, Linux
 - 💞️ I’m looking to collaborate on DeFi-project
